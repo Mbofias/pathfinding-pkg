@@ -1,0 +1,18 @@
+{
+    "name": "es.mbofias.pathfinding2d",
+    "version": "1.0.0",
+    "displayName": "2D Pathfinding",
+    "description": "A unity package to include A* and Dijkstra pathfinding algorithms in 2D",
+    "unity": "2021.3",
+    "unityRelease": "2f1",
+    "dependencies": {
+   },
+   "keywords": [
+    "A*", "dijkstra", "pathfinding", "algorithm", "2d"
+       ],
+    "author": {
+      "name": "Marc Bofias",
+      "email": "marc.bofias@gmail.com",
+      "url": "https://github.com/Mbofias/pathfinding2d"
+    }
+  }
