@@ -1,0 +1,20 @@
+{
+    "name": "MBofiasPathfinding.Runtime",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "es.MBofias.Pathfinding",
+            "expression": "1.0.0",
+            "define": "MBofias_Pathfinding"
+        }
+    ],
+    "noEngineReferences": false
+}
