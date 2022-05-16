@@ -2,10 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
+using Pathfinding;
 
-namespace Pathfinding
-{
-    [CustomPropertyDrawer(typeof(Pathfinding))]
+    [CustomPropertyDrawer(typeof(Pathfinding.Pathfinding))]
     public class PathfindingEditor : PropertyDrawer
     {
         private readonly string[] dropdownOptions = { "Multiple target points", "Single target point" };
@@ -94,5 +93,3 @@ namespace Pathfinding
                 }
         }
     }
-
-}
