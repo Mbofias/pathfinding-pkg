@@ -1,7 +1,9 @@
 {
-    "name": "MBofiasPathfinding.Runtime",
+    "name": "MBofiasPathfinding2D.Editor",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:b8e3b728d04909049afeaddb2bd7aea4"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -9,12 +11,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [
-        {
-            "name": "es.MBofias.Pathfinding",
-            "expression": "1.0.0",
-            "define": "MBofias_Pathfinding"
-        }
-    ],
+    "versionDefines": [],
     "noEngineReferences": false
 }

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Pathfinding
+namespace Pathfinder
 {
     [CreateAssetMenu(menuName = "Pathfinding/Map")]
     public class Map : ScriptableObject

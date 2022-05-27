@@ -1,5 +1,5 @@
 {
-    "name": "MBofiasPathfinding.Editor",
+    "name": "MBofiasPathfinding2D.Runtime",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
